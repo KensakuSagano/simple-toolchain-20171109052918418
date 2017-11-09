@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 64M
+  instances: 1
+  domain: mybluemix.net
+  name: simple-toolchain-20171109052918418
+  host: simple-toolchain-20171109052918418
+  disk_quota: 128M
